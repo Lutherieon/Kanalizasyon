@@ -1,0 +1,4 @@
+repository "Kanalizasyon@Lutherieon@cloud"
+  path "/"
+    br "/main"
+    co "/main"
